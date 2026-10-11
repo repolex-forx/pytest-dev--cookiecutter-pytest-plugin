@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/cookiecutter-pytest-plugin/commit/8f38e95b344f07071c1adada1fe209137c7effab",
       "git:hexsha": "8f38e95b344f07071c1adada1fe209137c7effab",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

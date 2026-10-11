@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "cookiecutter-pytest-plugin",
+  "versions": [
+    {
+      "commit": "8f38e95b344f07071c1adada1fe209137c7effab",
+      "tag": "",
+      "parsed_at": "2026-10-11T04:11:21.122741+00:00"
+    }
+  ]
+}
